@@ -4,9 +4,6 @@
 
 Flutter 로 제작하였으며, 데이터는 인터넷에 공개되는 메뉴를 기반으로 합니다.
 
-현재 1.1.0에 버그가 있어서 이전버전을 미설치 후 실행하면 오류가 생깁니다ㅠㅠ
-금방 수정할 예정이나 먼저 확인하고 싶으신 분은 1.0.2를 설치 실행해주세요.
-
-현재 최신 버전은 v1.1.0 입니다.. [다운로드](https://github.com/TheirDish/TheirDish/raw/master/TheirDish_1.1.0.apk)
+현재 최신 버전은 v1.1.3 입니다.. [다운로드](https://github.com/TheirDish/TheirDish/raw/master/TheirDish_1.1.3.apk)
 
 광주사업장 메뉴 홈페이지 아시는분은 알려주세요.
