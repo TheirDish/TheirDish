@@ -1,12 +1,15 @@
 # TheirDish
 
-## **[[앱 다운로드]](https://github.com/TheirDish/TheirDish/raw/master/TheirDish_1.4.5-arm64-v8a-release.apk)**
+## **[[앱 다운로드]](https://github.com/TheirDish/TheirDish/raw/master/TheirDish_1.5.0-arm64-v8a-release.apk)**
 
 사내 식당 메뉴를 편하게 보기 위해 만든 앱입니다.
-현재 최신 버전은 v1.4.5 입니다..
+현재 최신 버전은 v1.5.0 입니다..
 
 **설치시 오류가 나면 기존 앱을 삭제하고 재 설치 부탁드립니다.**
 용량 문제로 abi 를 나눴습니다. 위의 링크버전이 단말에서 실행되지 않으면 이걸 받아주세요. [다운로드](https://github.com/TheirDish/TheirDish/raw/master/TheirDish_1.4.5-armeabi-v7a-release.apk)
+
+와! 1년 6개월만의 오류로 인한 업데이트네요!! 앞으로는 또 수정할일 없었으면... 😂😂
+테이크아웃 종류는 다양해졌는데 솔직히 그렇게 좋은건지 모르겠네용..
 
 웰스토리 서버 접근해서 이미지 얻어오던 주소를 차단당하고, 수정하기를 얼추 한달 했는데..
 이제 지쳐서 포기하려고 합니다. 단순 텍스트만 공개된 웹페이지에서 얻어오는것으로 되돌렸어요.
@@ -14,3 +17,4 @@
 Flutter 로 제작하였으며, 데이터는 인터넷에 공개되는 메뉴를 기반으로 합니다.
 
 문의는 theirdish 앳 hotmail 쩜 com 으로 보내주세요. (또는 CE/IM 댓상으로..) 
+이메일은 거의 안보니 댓상...은 아재 인증이고 CE부문 라이브 톡으로 문의 주세요!
