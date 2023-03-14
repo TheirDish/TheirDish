@@ -1,14 +1,25 @@
 # TheirDish
 
-## **[[앱 다운로드]](https://github.com/TheirDish/TheirDish/raw/master/TheirDish_2.0.0-arm64-v8a-release.apk)**
+## **[[앱 다운로드]](https://github.com/TheirDish/TheirDish/raw/master/TheirDish_2.1.0-arm64-v8a-release.apk)**
 
 사내 식당 메뉴를 편하게 보기 위해 만든 앱입니다.
-현재 최신 버전은 v2.0.0 입니다.
+현재 최신 버전은 v2.1.0 입니다.
 
 
 
 **설치시 오류가 나면 기존 앱을 삭제하고 재 설치 부탁드립니다.**
-용량 문제로 abi 를 나눴습니다. 위의 링크버전이 단말에서 실행되지 않으면 이걸 받아주세요. [다운로드](https://github.com/TheirDish/TheirDish/raw/master/TheirDish_2.0.0-armeabi-v7a-release.apk)
+용량 문제로 abi 를 나눴습니다. 위의 링크버전이 단말에서 실행되지 않으면 이걸 받아주세요. [다운로드](https://github.com/TheirDish/TheirDish/raw/master/TheirDish_2.1.0-armeabi-v7a-release.apk)
+
+와! 다시 5개월만의 업데이트!! 는 버그로 식당이 안나오는 바람에..
+
+이제 안전빵? 이 가능하도록 웹페이지 버전을 로드하는 기능을 넣었습니다. 
+메뉴 나오는 모양이 이상하거나 하면 '웹' 이라고 써있는 글자를 누르시거나,
+로딩이 돌기만 해서 돌겠을 때 나오는 버튼을 눌러서 메뉴를 보실 수 있습니다.
+신세계 메뉴도 일단 웹으로라도;; 볼 수 있게 해 뒀어요.
+
+나중에 또 무언가 업데이트 될 가능성이 생겼습니다! 귀찮지 않다면 말이죠..
+
+---
 
 와! 15개월만의 업데이트!! 식당이 많이 바뀌었네요..
 (와! 1년 6개월만의 오류로 인한 업데이트네요!! 앞으로는 또 수정할일 없었으면... 😂😂) 이 무색해짐..
