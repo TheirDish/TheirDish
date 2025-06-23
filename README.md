@@ -1,14 +1,27 @@
 # TheirDish
 
-## **[[앱 다운로드]](https://github.com/TheirDish/TheirDish/raw/master/TheirDish_2.2.0-arm64-v8a-release.apk)**
+## **[[앱 다운로드]](https://github.com/TheirDish/TheirDish/raw/master/TheirDish_2.3.0-arm64-v8a-release.apk)**
 
 사내 식당 메뉴를 편하게 보기 위해 만든 앱입니다.
-현재 최신 버전은 v2.2.0 입니다.
+현재 최신 버전은 v2.3.0 입니다.
 
 
 
 **설치시 오류가 나면 기존 앱을 삭제하고 재 설치 부탁드립니다.**
-용량 문제로 abi 를 나눴습니다. 위의 링크버전이 단말에서 실행되지 않으면 이걸 받아주세요. [다운로드](https://github.com/TheirDish/TheirDish/raw/master/TheirDish_2.2.0-armeabi-v7a-release.apk)
+용량 문제로 abi 를 나눴습니다. 위의 링크버전이 단말에서 실행되지 않으면 이걸 받아주세요. [다운로드](https://github.com/TheirDish/TheirDish/raw/master/TheirDish_2.3.0-armeabi-v7a-release.apk)
+사실 이제 arm7 바이너리는 안올려도 될거 같긴 한데 말입니다..;
+
+---
+
+2년 3개월만의 업데이트... 인데 이게 맞는게 맞는지... 코드도 엉망진창이고, 이미 누더기 이상의 상태입니다만..
+
+몇가지 UI 중심의 업데이트가 있었습니다. 주로 메뉴 공유 기능이나, 원하는 테이크아웃이나 서브 메뉴를 색칠해서 잘 보는 기능인데..
+이거 설명 쓰기도 귀찮고 이것저것 만지다 보면 발견하시게 되리라 믿습니다.
+애초에 이제 이걸 쓰시는 분이 얼마나 있는지도 모르겠습니다만..
+
+의견은 Now Talk(DX부문)으로 주세요. 눈팅만 하고 답은 안달지만요..
+
+---
 
 이미지를 크게 볼 수 있는 기능 + Experimental 옵션을 추가했습니다.
 
