@@ -1,15 +1,22 @@
 # TheirDish
 
-## **[[앱 다운로드]](https://github.com/TheirDish/TheirDish/raw/master/TheirDish_2.3.0-arm64-v8a-release.apk)**
+## **[[앱 다운로드]](https://github.com/TheirDish/TheirDish/raw/master/TheirDish_2.5.0-arm64-v8a-release.apk)**
 
 사내 식당 메뉴를 편하게 보기 위해 만든 앱입니다.
-현재 최신 버전은 v2.3.0 입니다.
+현재 최신 버전은 v2.5.0 입니다.
 
 
 
 **설치시 오류가 나면 기존 앱을 삭제하고 재 설치 부탁드립니다.**
-용량 문제로 abi 를 나눴습니다. 위의 링크버전이 단말에서 실행되지 않으면 이걸 받아주세요. [다운로드](https://github.com/TheirDish/TheirDish/raw/master/TheirDish_2.3.0-armeabi-v7a-release.apk)
-사실 이제 arm7 바이너리는 안올려도 될거 같긴 한데 말입니다..;
+arm7은 이제 안올립니다 혹시 필요하면 얘기해주세요
+~~용량 문제로 abi 를 나눴습니다. 위의 링크버전이 단말에서 실행되지 않으면 이걸 받아주세요.
+사실 이제 arm7 바이너리는 안올려도 될거 같긴 한데 말입니다..;~~
+
+---
+
+우면 풀무원이 들어오면서, 소스를 전반적으로 갈아 엎었습니다.
+아직 불안정할거긴 한데 일단 밥은 봐야 하니까... 반영했습니다. 추후 개선 가능할지도?
+타 사업장이나 동작이 이상하다 싶으면 2.3.0 을 일단 다시 받아주세요.
 
 ---
 
